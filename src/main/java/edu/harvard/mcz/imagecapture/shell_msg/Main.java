@@ -18,7 +18,7 @@
  * Author: Paul J. Morris
  */
 
-package imagecapture_shell_msg;
+package edu.harvard.mcz.imagecapture.shell_msg;
 
 import com.sun.messaging.ConnectionConfiguration;
 import com.sun.messaging.ConnectionFactory;

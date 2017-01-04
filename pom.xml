@@ -31,7 +31,7 @@
                     <archive>
                         <manifestFile>src/main/conf/META-INF/MANIFEST.MF</manifestFile>
                         <manifest>
-                            <mainClass>imagecapture_shell_msg.Main</mainClass>
+                            <mainClass>edu.harvard.mcz.imagecapture.shell_msg.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
